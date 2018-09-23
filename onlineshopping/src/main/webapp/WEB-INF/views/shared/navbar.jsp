@@ -13,7 +13,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="${contextRoot}/home"><img src="${images}/ING.jpg" height="32" width="92"/></a>
+                <a class="navbar-brand" href="${contextRoot}/home"><img src="${images}/ING.jpg" width="150" height="30"/></a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">

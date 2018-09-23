@@ -185,6 +185,11 @@ public class PageController {
 		return mv;
 	}	
 		
-	
+	@RequestMapping(value="/home2")
+	public ModelAndView home2() {
+		ModelAndView mv= new ModelAndView("home2");
+		
+		return mv;
+	}
 	
 }

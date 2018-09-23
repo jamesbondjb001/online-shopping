@@ -58,7 +58,7 @@
 	        <div class="container">
 	            <!-- Brand and toggle get grouped for better mobile display -->
 	            <div class="navbar-header">
-	                <a class="navbar-brand" href="${flowExecutionUrl}&_eventId=home"><img src="${images}/ING.jpg" height="32" width="92"/></a>
+	                <a class="navbar-brand" href="${flowExecutionUrl}&_eventId=home"><img src="${images}/ING.jpg" height="30" width="150"/></a>
 	            </div>
 			</div>
 		</nav>
